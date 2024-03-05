@@ -10,4 +10,7 @@
     Implemented event handler to update search query state.
     Started filtering jokes based on search query.
 
-    
+
+    ![Screenshot (81)](https://github.com/ante-neh/web-test/assets/79926248/8b40688b-8052-459d-934b-8ca63ca0374a)
+    ![Screenshot (80)](https://github.com/ante-neh/web-test/assets/79926248/0d96535f-2a4c-42e0-9b08-6ad6c0ee2048)
+
